@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "neuralnetworkbot-vmyp",
+  "private_key_id": "e49da60b5d240d78e630ca33fb1a368c5e3ecb41",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5ccdcxaodiGIL\nomTgLu1NHcyrUVC7BJSaoVmgBcwFF9jWBb3s9katrL0JBkJBZeViOZGTmcfii/Tl\nlxxbkNQGXlU0Bnz1bIvmnUk87uL5+B8UxM0rVRQBd2yQaVOI4sHZ6fF+g1Q2ujxA\ngb+eXH1Xe3hmyZ+6ZaInUFZ/ew0OKE2T03ezamLN1b7ANEd/K8bNgMtdQB6tAClV\nzWyhsXeBxZPkfbXxGrRe/H7LDKtWUFTuQ/fBwge4+HNG+Zb2ga9RKxVJ/GgPScOU\nEvtm8dpGSbIB+VxkCvYy2xBmUgav6D+P+Weg/c1jWNnK+iwv0XuRGjVXAeseG4EY\nxyMSbCAtAgMBAAECggEAAIWa6FIPE2wJk53GldAJXrU6N4lcjHdyH+M44fgpnDF9\n/sTbtg8+gmEFaN/kA+tEJK1NzK04sUKBWdLWj+YQodtURXmfK2g/gZdPBwB6Rd96\npRAtO9m9VXFODdhZJNBKrXJnqXUfBtflMwWasmJM+7xOZIlVlAk653hFX7hHLlRR\n+U4nXSKsQkG+LAqModTaBIu0VQMY1K/yRDM0Tr6pgjN2iPRP+3JJ2E6AV39941D+\ntPl9uYmrs+HSssyGTG3ERq7UxfjnQZeTZ4hS3SM1l4odupZWw2CGBygB+mGBwVr6\nqB0EVQ3zBv4JYbcjHWA/BcDqVUSI1/fVYJhKv6IxrwKBgQDbkpJJ2tEshoBfesyP\nkc+RX/0egSNomE2gflK859bzPg/UQ3k4ij84wjXJrrK5/A14Qhq90RaVxXGBU85y\nZQ5uRedhPIism/t1rQ21dQcW0H22q5VXOwzdWL2DUJ56QENPHRUX7ANsIPDuRvRO\nqXGnl37nrC0q8O4+dOwIpAfo2wKBgQDYNcI5PhZ8A3xYRLRLGtrMBXrqisPW5O9R\nYND1bHVkJcXmk3vxxy9KJRWbKibG2bGGxheUQ5DFUplvuXmlZ5CVXdXSxzT5/7Rg\nr8kSKBeDVGSpCjTHAHzzIHrrOoZKos8XGeHRbPixI5hXv+sRBxx0e/TH0I1vpil0\nt5oDR9iFlwKBgQCSEoVNqsvDUktuuZQC4x7yeKg8te6nc8MYxVEnqRifw6bmMGkh\nix8aFGGSJa1y+1K+sUN3CfV7d9nWDrnl8oLSK6ENWCcYpcB4/cKD+DHaJKOtdaKp\nYHhjfNi+1lBHxh7BL/jLbFCui4+dBQkcl68rriZX23xE9/mXBVPNP8qfRwKBgAdd\nDVhVvP5MQBfhfyJvr7PzG9SRFUpkUaI74eH556WZg7vumfIKDpo/2RSHwvpSv7EP\nXg42nt+ZiJA9iN8RP+NWZsne7vb0tnf0hKyRoPtgDG2VY2bDpX3CRW1teNVh5hur\nTf2L8IxX4gBbEO5rh5SQBC4p9CcxSYgoGJ6z+7PRAoGAWkFm87by/2skvuSRzwh+\nvmyLup5f8NIFg1guktQZKdFDqA65p2Qx7q4e5lB5FVJ8itwmTgGJ+Te7QSx4eECa\neHuWiyiJCeBLmKvmwiiicJF0YTLSK1Yo5hB9KAq/XWs/vd0jOeq9/61OW+VobWwk\nbyfRYyOrQHSkgviW/WzO7go=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflowserviceaccount@neuralnetworkbot-vmyp.iam.gserviceaccount.com",
+  "client_id": "116348114657355345272",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflowserviceaccount%40neuralnetworkbot-vmyp.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
